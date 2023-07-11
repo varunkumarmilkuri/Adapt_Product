@@ -1,1 +1,1 @@
-abc
+select * from ADAPT_TESTING.ADAPT_SCHEMA.employeeabc
